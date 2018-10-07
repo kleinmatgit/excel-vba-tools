@@ -1,0 +1,12 @@
+Excel workbook containing examples related to Excel/VBA:
+- Logging
+- Error handling
+- Class
+- Named range button
+- auto_open
+- Worksheet object
+- With
+- COM interop
+- Collection
+- Dictionary
+- Early/Late binding
