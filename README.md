@@ -9,4 +9,5 @@ Excel workbook containing examples related to Excel/VBA:
 - COM interop
 - Collection
 - Dictionary
+- Array
 - Early/Late binding
