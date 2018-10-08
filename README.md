@@ -11,3 +11,4 @@ Excel workbook containing examples related to Excel/VBA:
 - Dictionary
 - Array
 - Early/Late binding
+- Timer
